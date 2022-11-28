@@ -25,6 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-github:before {
+  content: "\eab0";
+}
+
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+
 .icon-arrow-up:before {
   content: "\e90c";
 }
