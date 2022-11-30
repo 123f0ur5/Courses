@@ -1,0 +1,19 @@
+# Build and Release Folders
+Scripts
+Lib
+Include
+pyvenv.cfg
+ChatBot/manage.py
+ChatBot/db.sqlite3
+ChatBot/static
+ChatBot/media
+
+drf_course/server.py
+drf_course/env.template
+drf_course/docker_compose.yml
+drf_course/.env
+drf_course/venv
+drf_course/steps
+drf_course/backend/db.sqlite3
+drf_course/backend/manage.py
+drf_course/backend/docker
