@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\prova\\prova.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\Programming\\Courses\\Etec\\prova 222015\\prova.csproj",
       "projectName": "prova",
-      "projectPath": "C:\\Users\\Lucas\\Desktop\\prova\\prova.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Desktop\\Programming\\Courses\\Etec\\prova 222015\\prova.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Desktop\\prova\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Desktop\\Programming\\Courses\\Etec\\prova 222015\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

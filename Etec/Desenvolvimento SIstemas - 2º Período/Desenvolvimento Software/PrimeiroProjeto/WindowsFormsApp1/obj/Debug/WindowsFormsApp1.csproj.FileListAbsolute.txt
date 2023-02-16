@@ -1,0 +1,22 @@
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Mineiro\Desenvolvimento SIstemas\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lucas\Downloads\Desenvolvimento SIstemas\Desenvolvimento SIstemas\Desenvolvimento Software\PrimeiroProjeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
