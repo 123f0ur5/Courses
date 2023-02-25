@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+}
+
+.card--image-cover > img {
+    height: 170px;
+}
+
+.card--location-img {
+    height: 14px;
+}
