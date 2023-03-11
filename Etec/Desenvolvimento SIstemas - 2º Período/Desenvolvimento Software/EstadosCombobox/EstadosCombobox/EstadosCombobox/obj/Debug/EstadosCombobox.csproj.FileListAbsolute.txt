@@ -1,0 +1,11 @@
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\bin\Debug\EstadosCombobox.exe.config
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\bin\Debug\EstadosCombobox.exe
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\bin\Debug\EstadosCombobox.pdb
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.csproj.AssemblyReference.cache
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.csproj.SuggestedBindingRedirects.cache
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.Form1.resources
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.Properties.Resources.resources
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.csproj.GenerateResource.cache
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.csproj.CoreCompileInputs.cache
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.exe
+D:\Lin\C#\EstadosCombobox\EstadosCombobox\EstadosCombobox\obj\Debug\EstadosCombobox.pdb
