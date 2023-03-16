@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EstadosCombobox.Properties
+namespace Estados_Brasil.Properties
 {
 
 

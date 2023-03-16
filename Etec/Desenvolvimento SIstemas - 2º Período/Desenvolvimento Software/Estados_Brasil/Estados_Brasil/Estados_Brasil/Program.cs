@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EstadosCombobox
+namespace Estados_Brasil
 {
     internal static class Program
     {

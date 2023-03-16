@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("EstadosCombobox")]
+[assembly: AssemblyTitle("Estados_Brasil")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EstadosCombobox")]
+[assembly: AssemblyProduct("Estados_Brasil")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("047cba03-09d8-4b38-a83c-835b10c69b1a")]
+[assembly: Guid("8ec88830-7e06-41e8-a83e-7d6bb21a2ebd")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

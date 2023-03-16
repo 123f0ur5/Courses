@@ -1,0 +1,44 @@
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe.config
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.pdb
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Form1.resources
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.exe
+C:\Users\Usuario\source\repos\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.pdb
+E:\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe.config
+E:\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe
+E:\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.pdb
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.AssemblyReference.cache
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.SuggestedBindingRedirects.cache
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Form1.resources
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Properties.Resources.resources
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.GenerateResource.cache
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.CoreCompileInputs.cache
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.exe
+E:\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.pdb
+D:\Rafael\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe.config
+D:\Rafael\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe
+D:\Rafael\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.pdb
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.AssemblyReference.cache
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.SuggestedBindingRedirects.cache
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Form1.resources
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Properties.Resources.resources
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.GenerateResource.cache
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.CoreCompileInputs.cache
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.exe
+D:\Rafael\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.pdb
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Form1.resources
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.exe
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\obj\Debug\Estados_Brasil.pdb
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe.config
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.exe
+C:\Users\Lucas\Desktop\Programming\Courses\Etec\Desenvolvimento SIstemas - 2º Período\Desenvolvimento Software\Estados_Brasil\Estados_Brasil\Estados_Brasil\bin\Debug\Estados_Brasil.pdb

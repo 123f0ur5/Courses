@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstadosCombobox", "EstadosCombobox\EstadosCombobox.csproj", "{047CBA03-09D8-4B38-A83C-835B10C69B1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estados_Brasil", "Estados_Brasil\Estados_Brasil.csproj", "{8EC88830-7E06-41E8-A83E-7D6BB21A2EBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{047CBA03-09D8-4B38-A83C-835B10C69B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{047CBA03-09D8-4B38-A83C-835B10C69B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{047CBA03-09D8-4B38-A83C-835B10C69B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{047CBA03-09D8-4B38-A83C-835B10C69B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC88830-7E06-41E8-A83E-7D6BB21A2EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC88830-7E06-41E8-A83E-7D6BB21A2EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC88830-7E06-41E8-A83E-7D6BB21A2EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC88830-7E06-41E8-A83E-7D6BB21A2EBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A340A133-21BB-4533-92E0-D4491A51FC38}
+		SolutionGuid = {DC29CA36-645E-433B-9461-D0FA7E251A8C}
 	EndGlobalSection
 EndGlobal

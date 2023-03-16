@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{047CBA03-09D8-4B38-A83C-835B10C69B1A}</ProjectGuid>
+    <ProjectGuid>{8EC88830-7E06-41E8-A83E-7D6BB21A2EBD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>EstadosCombobox</RootNamespace>
-    <AssemblyName>EstadosCombobox</AssemblyName>
+    <RootNamespace>Estados_Brasil</RootNamespace>
+    <AssemblyName>Estados_Brasil</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
