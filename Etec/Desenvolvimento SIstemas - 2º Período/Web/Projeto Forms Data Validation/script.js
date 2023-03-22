@@ -1,43 +1,48 @@
-// ------------step-wizard-------------
-$(document).ready(function () {
-    $('.nav-tabs > li a[title]').tooltip();
-    
-    //Wizard
-    $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+$(".continue").on("click", function(){ //$(".continue, .round-tab").on("click", function(){
+    completed = true
+    active_form = $("div > .active")
+    console.log(active_form)
+    active_tab = $(".nav > li.active ")
+    current = parseInt(active_tab.children().attr("aria-controls"))
+    // target = parseInt($(this).parent().attr("aria-controls"))
+    fields = active_form.children("div > .row").children()
 
-        var target = $(e.target);
-    
-        if (target.parent().hasClass('disabled')) {
-            return false;
+    // console.log(current, target)
+    // if (target){
+    //     if (current > target) {
+    //         active_tab.removeClass("active")
+    //         $(this).parent().parent().addClass("active")
+            
+    //     }
+    // }
+
+
+    for (i = 0; i < fields.length; i++) {
+        campo = fields[i].children[0].children[1]
+        if(campo.value == ""){
+            alert(`Favor preencher o ${campo.name} corretamente!`);
+            completed = false
+            break
         }
-    });
+    };
 
-    $(".next-step").click(function (e) {
+    if (completed) {
+        active_form.removeClass("active")
+        active_form.parent().find(`#${current+1}`).addClass("active")
+        active_tab.removeClass("active")
+        $(`[aria-controls=${current+1}]`).parent().removeClass("disabled").addClass("active")
+    }
+})
 
-        var active = $('.wizard .nav-tabs li.active');
-        active.next().removeClass('disabled');
-        nextTab(active);
+$(".prev-step").on("click", function(){
+    active_form = $("div > .active")
+    active_tab = $(".nav > li.active ")
+    current = parseInt(active_tab.children().attr("aria-controls"))
 
-    });
-    $(".prev-step").click(function (e) {
+    active_form.removeClass("active")
+    active_form.parent().find(`#${current-1}`).addClass("active")
+    active_tab.removeClass("active")
+    $(`[aria-controls=${current-1}]`).parent().removeClass("disabled").addClass("active")
+})
 
-        var active = $('.wizard .nav-tabs li.active');
-        prevTab(active);
-
-    });
-});
-
-function nextTab(elem) {
-    $(elem).next().find('a[data-toggle="tab"]').click();
-}
-function prevTab(elem) {
-    $(elem).prev().find('a[data-toggle="tab"]').click();
-}
-
-
-$('.nav-tabs').on('click', 'li', function() {
-    $('.nav-tabs li.active').removeClass('active');
-    $(this).addClass('active');
-});
-
-
+console.log($("[rafa=caralho]"))
