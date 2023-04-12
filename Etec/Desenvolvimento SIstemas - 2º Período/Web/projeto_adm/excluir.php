@@ -1,0 +1,3 @@
+<?php
+//Exclui o produto.
+?>
